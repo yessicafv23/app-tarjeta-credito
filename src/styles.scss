@@ -7,5 +7,16 @@ body{
 
 .font-title{
   font-family: 'Lato', sans-serif;
+  font-weight: 600;
   text-align: center;
+}
+.font-subtitulos{
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+p, h5, input, label, td, button{
+  font-family: 'Lato', sans-serif;
 }
